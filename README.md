@@ -4,9 +4,10 @@ Oneplus 8T was announced and released in Sep 2020.
 
 ## Device specifications
 
-| Device       | Xiaomi Mi 8 Lite                                    |
+| Device       |Oneplus 8T                                   |
 | -----------: | :-------------------------------------------------- |
-| SoC          | Qualcomm SDM660 Snapdragon 660                      |
+| SIM          | Dual SIM (Nano-SIM, dual stand-by)
+| Chipset      | Qualcomm SM8250 Snapdragon 865 (7 nm+)                     |
 | CPU          | 2.84Ghz A77x1+2.42GHz A77x3+1.8GHz A55x4	      	     |
 | GPU          | Adreno650                                          |
 | Memory       | 8 GB RAM or 12 GB RAM (LPDDR4X)                      |
