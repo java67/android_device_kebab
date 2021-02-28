@@ -24,4 +24,4 @@ Xiaomi MI 8 Lite was announced and released in Sep 2018.
 |FEATURES Sensors| Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer (market dependant) |
 ## Device picture
 
-![Xiaomi Mi 8 Lite ](https://detail.zol.com.cn/picture_index_2085/index20848469_0_p1337764.shtml)
+![Oneplus 8T ](https://detail.zol.com.cn/picture_index_2085/index20848469_0_p1337764.shtml)
