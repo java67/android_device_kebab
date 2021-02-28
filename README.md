@@ -25,4 +25,4 @@ Oneplus 8T was announced and released in Sep 2020.
 |FEATURES Sensors| Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer (market dependant) |
 ## Device picture
 
-![Oneplus 8T ](https://detail.zol.com.cn/picture_index_2085/index20848469_0_p1337764.shtml)
+
