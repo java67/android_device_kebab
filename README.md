@@ -1,6 +1,6 @@
 Device tree for Oneplus 8T
 
-Xiaomi MI 8 Lite was announced and released in Sep 2018.
+Oneplus 8T was announced and released in Sep 2020.
 
 ## Device specifications
 
